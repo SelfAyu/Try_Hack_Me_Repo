@@ -1,0 +1,38 @@
+TASK 2
+
+1. You are given permission to perform a security audit on an organization; what type of hacker would you be?
+    White Hat
+
+2. If you attacked an organization and stole their data, what type of hacker would you be?
+    Black Hat
+
+3. What document defines how a penetration testing engagement should be carried out?
+    Rules of Engagement
+
+TASK 3
+
+1. What stage of penetration testing involves using publicly available information?
+    Information Gathering
+
+2. If you wanted to use a framework for testing telecommunications, what framework would you use? Note: We're looking for the acronym here and not the full name.
+    osstmm
+
+3. What framework focuses on the testing of web applications?
+    owasp
+
+TASK 4
+
+1. You are asked to test an application but are not given access to its source code. What testing process is this?
+    black box
+
+2. You are asked to test a website, and you are given access to the source code. What testing process is this?
+    white box
+
+TASK 5
+
+Click Next
+Click Next
+Paste IP address. Next
+Click Next
+Click Next
+Paste THM{PENTEST_COMPLETE} in the box.
